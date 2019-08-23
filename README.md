@@ -1,1 +1,1 @@
-Boiler plate com React e Redux implementados
+Admin feito com material UI e redux
